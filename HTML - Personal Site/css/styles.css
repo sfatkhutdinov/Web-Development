@@ -1,11 +1,11 @@
 body {
-	background-color: silver;
+	background-color: #383e56;
 }
 
 hr {
 	border-style: none;
 	border-top-style: dotted;
-	border-color: grey;
+	border-color: #f69e7b;
 	border-width: 5px;
 	width: 10%;
 }
@@ -14,3 +14,17 @@ img {
 	height: 200px;
 	border-radius: 50%;
 }
+
+h1 {
+	color: #f69e7b;
+}
+
+h3 {
+	color: #d4b5b0;
+}
+
+p, ul, table, a {
+	color: #eedad1;
+}
+
+
